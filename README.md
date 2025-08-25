@@ -2,7 +2,7 @@
 <img width="1050" height="350" alt="White Aesthetic Modern Fashion News Email Header (3)" src="https://github.com/user-attachments/assets/e940a682-8fb4-4c5f-8f18-c01d2b938300" />
 
 
-<p>This project was developed to find trends in the data provided by Census in 2014. Each visualization created shows helps us gain new insights and understand the population in The United States better.</p>
+<p>This project was developed to find trends in the data provided by Census in 2015. Each visualization created shows helps us gain new insights and understand the population in The United States better.</p>
 
 ## Insight #1: The higher the population of a state the higher their income is
 ![Income by State Map](https://github.com/user-attachments/assets/713dcc9d-bfc1-42f4-9abe-4c259a86c30c)
