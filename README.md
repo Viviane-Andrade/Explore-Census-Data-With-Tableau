@@ -1,4 +1,6 @@
 # Explore Census Data with Tableau
+<img width="1050" height="350" alt="White Aesthetic Modern Fashion News Email Header (3)" src="https://github.com/user-attachments/assets/e940a682-8fb4-4c5f-8f18-c01d2b938300" />
+
 
 <p>This project was developed to find trends in the data provided by Census in 2014. Each visualization created shows helps us gain new insights and understand the population in The United States better.</p>
 
